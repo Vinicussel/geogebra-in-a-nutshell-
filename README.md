@@ -10,8 +10,8 @@ LISTA DE FEITOS:
 
 -calcularRetasEVontadeDeMorrer.ggb { obj principal: montar uma lista de exercícios infinita sobre teorema de tales e explorar a plataforma; feito sem uso de tutoriais}
 
--graficos.ggb { obj principal: explorar a plataforma, especificamente programação}
+-graficos.ggb { obj principal: explorar a plataforma, especificamente programação : https://youtu.be/jJBK3CojqM0}
 
--teste001.ggb { obj principal: explorar a plataforma, especificamente programação}
+-teste001.ggb { obj principal: explorar a plataforma, especificamente programação : https://youtu.be/IGVGfopyBw0}
 
 OBS: Arquivos fora da pasta "ggb" não consideram parte do desenvolvimento do projeto
