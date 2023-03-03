@@ -5,6 +5,7 @@ Usado para guardar e replicar documentos referentes ao desenvolvimento do projet
 (ninguém lê isso)
 
 LISTA DE FEITOS:
+
 -TRIgonometria.ggb { obj principal: ensinar funções trigonometricas e suas relações, além de explorar a plataforma; feito sem uso de tutoriais}
 -calcularRetasEVontadeDeMorrer.ggb { obj principal: montar uma lista de exercícios infinita sobre teorema de tales e explorar a plataforma; feito sem uso de tutoriais}
 -graficos.ggb { obj principal: explorar a plataforma, especificamente programação}
