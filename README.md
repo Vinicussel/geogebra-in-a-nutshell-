@@ -1,10 +1,5 @@
 # geogebra-in-a-nutshell
 
-A program that uses python (I'm sorry c++) to calculate and reproduces graphical representation of a function.
+Usado para guardar e replicar documentos referentes ao desenvolvimento do projeto de pesquisa bla bla bla
 
-Please, note that the project is under development, so, to keep up to date, here's my twitter link: https://twitter.com/inac3ssivel
-
-Imports:
-   Tkinter;
-   Numpy;
-   Matplot.lib.
+(ninguém lê isso)
